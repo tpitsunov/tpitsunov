@@ -36,6 +36,7 @@ Currently, I'm particularly interested in how AI agents can **collaborate, coord
 ![Qwen Code](https://img.shields.io/badge/Qwen_Code-7356BF?style=flat-square)
 ![OpenCode](https://img.shields.io/badge/OpenCode-222222?style=flat-square)
 ![Kilo Code](https://img.shields.io/badge/Kilo_Code-242424?style=flat-square)
+![DeepSeek Harness](https://img.shields.io/badge/DeepSeek_Harness-2596be?style=flat-square)
 
 ### ⚡ LLM Inference & AI Infrastructure
 
