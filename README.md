@@ -28,6 +28,7 @@ Currently, I'm particularly interested in how AI agents can **collaborate, coord
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Flowise](https://img.shields.io/badge/Flowise-1C3C3C?style=flat-square)
 ![LibreChat](https://img.shields.io/badge/LibreChat-212121?style=flat-square)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 
 ### 🤖 Agentic Harnesses
 
@@ -38,26 +39,25 @@ Currently, I'm particularly interested in how AI agents can **collaborate, coord
 ![Kilo Code](https://img.shields.io/badge/Kilo_Code-242424?style=flat-square)
 ![DeepSeek Harness](https://img.shields.io/badge/DeepSeek_Harness-2596be?style=flat-square)
 
-### ⚡ LLM Inference & AI Infrastructure
+### ⚡ AI Infra
 
+![LiteLLM](https://img.shields.io/badge/LiteLLM-2563EB?style=flat-square)
+![Langfuse](https://img.shields.io/badge/Langfuse-101010?style=flat-square&logo=langfuse&logoColor=white)
+![GPUStack](https://img.shields.io/badge/GPUStack-326CE5?style=flat-square)
 ![vLLM](https://img.shields.io/badge/vLLM-2463EB?style=flat-square)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Qwen](https://img.shields.io/badge/Qwen-7356BF?style=flat-square)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 
-### ⚙️ Backend & APIs
+### ⚙️ Backend
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
-![Alembic](https://img.shields.io/badge/Alembic-6BA539?style=flat-square)
 ![HTTPX](https://img.shields.io/badge/HTTPX-3776AB?style=flat-square)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
 ![SSE](https://img.shields.io/badge/Server--Sent_Events-444444?style=flat-square)
 
-### 🗄️ Databases, Analytics & Streaming
+### 🗄️ Data
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Greenplum](https://img.shields.io/badge/Greenplum-4B9B70?style=flat-square)
@@ -66,7 +66,7 @@ Currently, I'm particularly interested in how AI agents can **collaborate, coord
 ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)
 ![S3](https://img.shields.io/badge/S3_Compatible_Storage-569A31?style=flat-square)
 
-### ☸️ DevOps, Cloud & Security
+### ☸️ DevOps
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -88,16 +88,7 @@ Currently, I'm particularly interested in how AI agents can **collaborate, coord
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-### 🖥️ Frontend & Application Development
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
-
-### 🔧 Additional Skills & Tools
+### 🔧 Additional Skills
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
