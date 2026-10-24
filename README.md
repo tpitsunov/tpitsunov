@@ -29,7 +29,7 @@ Currently, I'm particularly interested in how AI agents can **collaborate, coord
 ![Flowise](https://img.shields.io/badge/Flowise-1C3C3C?style=flat-square)
 ![LibreChat](https://img.shields.io/badge/LibreChat-212121?style=flat-square)
 
-### 🤖 Coding Agents & Developer Tools
+### 🤖 Agentic Harnesses
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square)
 ![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-000000?style=flat-square&logo=openai&logoColor=white)
